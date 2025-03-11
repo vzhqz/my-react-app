@@ -1,9 +1,7 @@
-import ToDoList from './projects/To-Do-List/To-Do-List.jsx'
+import RandomQuoteGenerator from './projects/Random-Quote-Generator/Random-Quote-Generator.jsx'
 
 function App() {
-    return(<>
-        <ToDoList/>
-    </>)
+    return <RandomQuoteGenerator/>
 }
 
 export default App
