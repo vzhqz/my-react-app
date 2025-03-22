@@ -1,13 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { loadTasks, saveTasks } from "./LocalStorage.js";
 
-// Importing Icons
-import PlusIcon from '../../assets/To-Do-List/plus-solid.svg'
-import EditIcon from '../../assets/To-Do-List/pen-to-square-solid.svg'
-import upArrowIcon from '../../assets/To-Do-List/arrow-up-solid.svg'
-import downArrowIcon from '../../assets/To-Do-List/arrow-down-solid.svg'
-import TrashIcon from '../../assets/To-Do-List/trash-solid.svg'
-
 function ToDoList() {
   const [tasks, setTasks] = useState([]);
   const [newTask, setNewTask] = useState("");

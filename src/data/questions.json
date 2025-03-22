@@ -1,0 +1,22 @@
+[
+    {
+        "question": "How many days are in February?",
+        "choices": ["28 Days", "30 Days", "27 Days", "31 Days"],
+        "answer": "28 Days"
+    },
+    {
+        "question": "What year is it?",
+        "choices": ["1990", "1850", "2025", "2001"],
+        "answer": "2025"
+    },
+    {
+        "question": "What is 1 + 1 equal to?",
+        "choices": ["2", "4", "11", "69"],
+        "answer": "2"
+    },
+    {
+        "question": "How to solve world hunger?",
+        "choices": ["Idk bro", "Solve it yourself", "Give free food", "Nuke hungry people"],
+        "answer": "Idk bro"
+    }
+]

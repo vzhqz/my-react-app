@@ -1,7 +1,7 @@
-import RandomQuoteGenerator from './projects/Random-Quote-Generator/Random-Quote-Generator.jsx'
+import Weather from './projects/Weather-App/Weather-App.jsx'
 
 function App() {
-    return <RandomQuoteGenerator/>
+    return <Weather/>
 }
 
 export default App

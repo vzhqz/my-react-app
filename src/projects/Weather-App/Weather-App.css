@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.weather-app-header-li { @apply mr-3 cursor-pointer text-lg }
+
+i { @apply mx-2 }
+
+.divisor { @apply w-[1px] bg-black ml-20 mr-2.5 py-7 }
